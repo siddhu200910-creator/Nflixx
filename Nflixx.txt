@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "Nature Wonders",
+    "description": "Explore the beauty of nature in this amazing video.",
+    "thumbnail": "https://picsum.photos/id/1018/250/150",
+    "video_url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "category": "Nature",
+    "views": 15234,
+    "uploaded_by": "NflixxChannel1"
+  }
+  // ... aur baki 14 videos
+]

@@ -1,0 +1,7 @@
+[
+  { "title": "Amazing Video 1", "url": "https://www.youtube.com/embed/dQw4w9WgXcQ", "thumbnail": "https://via.placeholder.com/400x200.png?text=Video+1" },
+  { "title": "Amazing Video 2", "url": "https://www.youtube.com/embed/9bZkp7q19f0", "thumbnail": "https://via.placeholder.com/400x200.png?text=Video+2" },
+  { "title": "Amazing Video 3", "url": "https://www.youtube.com/embed/3JZ_D3ELwOQ", "thumbnail": "https://via.placeholder.com/400x200.png?text=Video+3" },
+  { "title": "Amazing Video 4", "url": "https://www.youtube.com/embed/L_jWHffIx5E", "thumbnail": "https://via.placeholder.com/400x200.png?text=Video+4" },
+  { "title": "Amazing Video 5", "url": "https://www.youtube.com/embed/eY52Zsg-KVI", "thumbnail": "https://via.placeholder.com/400x200.png?text=Video+5" }
+]
